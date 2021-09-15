@@ -7,10 +7,9 @@
     height:900px;
     background-image:url("play.jpg");
     background-position: center;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size:cover;
     background-repeat: no-repeat;
+    background-color: black;
 }
 .heading1{
     color:black;
