@@ -145,3 +145,50 @@
   background-color: black;
   text-align: center;
 }
+@media only screen and (max-width: 600px) {
+  #t1{
+    height: 11vh;
+    width: 9vw;
+    font-size: 40px;
+  }
+  #t2{
+    height: 11vh;
+    width: 9vw;
+    font-size: 40px;
+  }
+  #t3{
+    height: 11vh;
+    width: 9vw;
+    font-size: 40px;
+  }
+  #t4{
+    height: 11vh;
+    width: 9vw;
+    font-size: 40px;
+  }
+  #t5{
+    height: 11vh;
+    width: 9vw;
+    font-size: 40px;
+  }
+  #t6{
+    height: 11vh;
+    width: 9vw;
+    font-size: 40px;
+  }
+  #t7{
+    height: 11vh;
+    width: 9vw;
+    font-size: 40px;
+  }
+  #t8{
+    height: 11vh;
+    width: 9vw;
+    font-size: 40px;
+  }
+  #t9{
+    height: 11vh;
+    width: 9vw;
+    font-size: 40px;
+  }
+}
