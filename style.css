@@ -1,0 +1,81 @@
+*{
+    padding :0;
+    margin:0;
+    font-family:'Geneva',sans-serif;
+}
+.background{
+    height:900px;
+    background-image:url("play.jpg");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.BOX{
+    width:400px;
+    height:200px;
+    padding:10px;
+    border:5px solid white;
+    margin: auto;
+    background: black;
+}
+.heading1{
+    color:black;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    background-color:khaki;
+}
+.heading2{
+    color :khaki;
+    font-size:25px;
+    text-align:center;
+}
+.heading3{
+    color :khaki;
+    font-size:25px;
+    text-align:center;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+#X{
+    background-color:#4CAF50;
+    border: none;
+    color:white;
+    text-align: center;
+    cursor:pointer;
+    font-size: 16px;
+    padding: 10px 32px;
+    border-radius: 8px;
+    margin-left:40px;
+}
+#O{
+    background-color:#4CAF50;
+    border: none;
+    color:white;
+    text-align: center;
+    cursor:pointer;
+    font-size: 16px;
+    padding: 10px 32px;
+    border-radius: 8px;
+    margin-left:55px;
+}
+.play{
+    background-color:#4CAF50;
+    border: none;
+    color:white;
+    text-align: center;
+    cursor:pointer;
+    font-size: 16px;
+    padding: 10px 32px;
+    border-radius: 8px;
+    margin-left:150px;
+}

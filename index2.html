@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tic Tac Toe</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="style2.css">
+  <style>
+  </style>
+  <div id="print"></div>
+  <script>
+    const params = new URLSearchParams(window.location.search)
+    selectedvalue = params.get('value');
+    
+  </script>
+</head>
+
+<body>
+  <div class="heading1">
+      <h1>Tic Tac Toe</h1>
+  </div>
+  <div class="background">
+      <br><br>
+      <input type="text" id="t1" onclick="cell1(); mainfunc();" readonly>
+      <input type="text" id="t2" onclick="cell2(); mainfunc();" readonly>
+      <input type="text" id="t3" onclick="cell3(); mainfunc();" readonly>
+      <br><br><br><br><br><br><br><br><br>
+      <input type="text" id="t4" onclick="cell4(); mainfunc();" readonly>
+      <input type="text" id="t5" onclick="cell5(); mainfunc();" readonly>
+      <input type="text" id="t6" onclick="cell6(); mainfunc();" readonly>
+      <br><br><br><br><br><br><br><br><br>
+      <input type="text" id="t7" onclick="cell7(); mainfunc();" readonly>
+      <input type="text" id="t8" onclick="cell8(); mainfunc();" readonly>
+      <input type="text" id="t9" onclick="cell9(); mainfunc();" readonly>
+      <br><br><br><br><br><br<br><br><br><br><br>
+      <input type="button" id="reset" onclick="changereset(); reset();" value="Reset">
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>
