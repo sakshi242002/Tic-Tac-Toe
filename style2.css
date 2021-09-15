@@ -20,103 +20,111 @@
     background-color:khaki;
 }
 #t1{
-    height: 140px;
-    width: 140px;
+    height:20vh;
+    width: 9vw;
     border : 4px white solid;
     margin:auto;
     text-align: center;
     font-size:80px;
     position: absolute;
-    left:520px;
+    margin-left:33vw;
+    /*left:520px;*/
     color:black;
 }
 #t2{
-  height: 140px;
-  width: 140px;
+  height:20vh;
+  width: 9vw;
   border : 4px white solid;
   margin:auto;
   text-align: center;
   font-size:80px;
   position: absolute;
-  left:680px;
+  /*left:680px;*/
+  margin-left:44vw;
   color:black;
-
 }
 #t3{
-    height: 140px;
-    width: 140px;
+    height:20vh;
+    width: 9vw;
     border : 4px white solid;
     margin:auto;
     text-align: center;
     font-size:80px;
     position: absolute;
-    left:840px;
+    /*left:840px;*/
+    margin-left:55vw;
     color:black;
 }
 #t4{
-    height: 140px;
-    width: 140px;
+    height:20vh;
+    width: 9vw;
     border : 4px white solid;
     margin:auto;
     text-align: center;
     font-size:80px;
     position: absolute;
-    left: 520px;
+    /*left: 520px;*/
+    margin-left:33vw;
     color:black;
 }
 #t5{
-  height: 140px;
-  width: 140px;
+  height:20vh;
+  width: 9vw;
   border : 4px white solid;
   margin:auto;
   text-align: center;
   font-size:80px;
   position: absolute;
-  left:680px;
+  /*left:680px;*/
+  margin-left:44vw;
   color:black;
 }
 #t6{
-    height: 140px;
-    width: 140px;
+    height:20vh;
+    width: 9vw;
     border : 4px white solid;
     margin:auto;
     text-align: center;
     font-size:80px;
     position: absolute;
-    left:840px;
+    /*left:840px;*/
+    margin-left: 55vw;
     color:black;
 }
 #t7{
-    height: 140px;
-    width: 140px;
+    height:20vh;
+    width: 9vw;
     border : 4px white solid;
     margin:auto;
     text-align: center;
     font-size:80px;
     position: absolute;
-    left:520px;
+    /*left:520px;*/
+    margin-left:33vw;
     color:black;
 }
 #t8{
-    height: 140px;
-    width: 140px;
+    height:20vh;
+    width: 9vw;
     border : 4px white solid;
     margin:auto;
     text-align: center;
     font-size:80px;
     position: absolute;
-    left:680px;
+    /*left:680px;*/
+    margin-left:44vw;
     color:black;
 }
 #t9{
-    height: 140px;
-    width: 140px;
+    height:20vh;
+    width: 9vw;
     border : 4px white solid;
     margin:auto;
     text-align: center;
     font-size:80px;
     position: absolute;
-    left:840px;
+    /*left:840px;*/
+    margin-left:55vw;
     color:black;
 }
 #reset{
