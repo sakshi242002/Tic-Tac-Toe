@@ -28,6 +28,7 @@
     font-size:80px;
     position: absolute;
     margin-left:33vw;
+    margin-top: 0.1vw;
     /*left:520px;*/
     color:black;
 }
@@ -41,6 +42,7 @@
   position: absolute;
   /*left:680px;*/
   margin-left:44vw;
+    margin-top: 0.1vw;
   color:black;
 }
 #t3{
@@ -53,6 +55,7 @@
     position: absolute;
     /*left:840px;*/
     margin-left:55vw;
+    margin-top: 0.1vw;
     color:black;
 }
 #t4{
@@ -65,6 +68,7 @@
     position: absolute;
     /*left: 520px;*/
     margin-left:33vw;
+    margin-top: 11vw;
     color:black;
 }
 #t5{
@@ -77,6 +81,7 @@
   position: absolute;
   /*left:680px;*/
   margin-left:44vw;
+    margin-top: 11vw;
   color:black;
 }
 #t6{
@@ -89,6 +94,7 @@
     position: absolute;
     /*left:840px;*/
     margin-left: 55vw;
+    margin-top: 11vw;
     color:black;
 }
 #t7{
@@ -101,6 +107,7 @@
     position: absolute;
     /*left:520px;*/
     margin-left:33vw;
+    margin-top: 22vw;
     color:black;
 }
 #t8{
@@ -113,6 +120,7 @@
     position: absolute;
     /*left:680px;*/
     margin-left:44vw;
+    margin-top: 22vw;
     color:black;
 }
 #t9{
@@ -125,6 +133,7 @@
     position: absolute;
     /*left:840px;*/
     margin-left:55vw;
+    margin-top: 22vw;
     color:black;
 }
 #reset{
@@ -137,6 +146,7 @@
   padding: 1vh 2vw;
   border-radius: 8px;
   margin-left:45vw;
+  margin-top:22vw;
 }
 #print{
   font-family: sans-serif;
