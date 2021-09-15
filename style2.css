@@ -27,6 +27,7 @@
     font-size:80px;
     position: absolute;
     left:520px;
+    color:black;
 }
 #t2{
   height: 140px;
@@ -37,6 +38,7 @@
   font-size:80px;
   position: absolute;
   left:680px;
+  color:black;
 
 }
 #t3{
@@ -48,6 +50,7 @@
     font-size:80px;
     position: absolute;
     left:840px;
+    color:black;
 }
 #t4{
     height: 140px;
@@ -58,6 +61,7 @@
     font-size:80px;
     position: absolute;
     left: 520px;
+    color:black;
 }
 #t5{
   height: 140px;
@@ -68,6 +72,7 @@
   font-size:80px;
   position: absolute;
   left:680px;
+  color:black;
 }
 #t6{
     height: 140px;
@@ -78,6 +83,7 @@
     font-size:80px;
     position: absolute;
     left:840px;
+    color:black;
 }
 #t7{
     height: 140px;
@@ -88,6 +94,7 @@
     font-size:80px;
     position: absolute;
     left:520px;
+    color:black;
 }
 #t8{
     height: 140px;
@@ -98,6 +105,7 @@
     font-size:80px;
     position: absolute;
     left:680px;
+    color:black;
 }
 #t9{
     height: 140px;
@@ -108,6 +116,7 @@
     font-size:80px;
     position: absolute;
     left:840px;
+    color:black;
 }
 #reset{
   background-color: #4CAF50;
