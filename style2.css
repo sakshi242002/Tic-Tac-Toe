@@ -137,7 +137,6 @@
   padding: 1vh 2vw;
   border-radius: 8px;
   margin-left:45vw;
-  margin-top:22vw;
 }
 #print{
   font-family: sans-serif;
@@ -151,55 +150,45 @@
     height: 9vh;
     width: 9vw;
     font-size: 40px;
-    margin-top: 0.1vw;
   }
   #t2{
     height:9vh;
     width: 9vw;
     font-size: 40px;
-    margin-top: 0.1vw;
-    
   }
   #t3{
     height: 9vh;
     width: 9vw;
     font-size: 40px;
-    margin-top: 0.1vw;
   }
   #t4{
     height: 9vh;
     width: 9vw;
     font-size: 40px;
-    margin-top: 30vw;
   }
   #t5{
     height: 9vh;
     width: 9vw;
     font-size: 40px;
-    margin-top: 30vw;
   }
   #t6{
     height: 9vh;
     width: 9vw;
     font-size: 40px;
-    margin-top: 30vw;
   }
   #t7{
     height: 9vh;
     width: 9vw;
     font-size: 40px;
-    margin-top: 40vw;
   }
   #t8{
     height: 9vh;
     width: 9vw;
     font-size: 40px;
-    margin-top: 40vw;
   }
   #t9{
     height: 9vh;
     width: 9vw;
     font-size: 40px;
-    margin-top: 60vw;
   }
 }
